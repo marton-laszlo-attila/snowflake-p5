@@ -12,10 +12,10 @@ Download files, and open the index.html file in browser.
 
 ## Usage
 
-Click on the canvas with the mouse.
-Press Q or A and the radius of the circle increases or decreases.
-Press the UP or DOWN button to change the number of mirror.
-Press the S and save canvas to file.
+- Click on the canvas with the mouse.
+- Press Q or A and the radius of the circle increases or decreases.
+- Press the UP or DOWN button to change the number of mirror.
+- Press the S and save canvas to file.
 
 ## Example
 
