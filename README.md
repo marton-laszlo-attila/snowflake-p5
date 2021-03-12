@@ -19,9 +19,9 @@ Press the S and save canvas to file.
 
 ## Example
 
-<img src="example_images/snowflake-01.jpg" align="left" width="14%" style="padding-right: 5px">
-<img src="example_images/snowflake-03.jpg" align="left" width="14%" style="padding-right: 5px">
-<img src="example_images/snowflake-04.jpg" align="left" width="14%" style="padding-right: 5px">
-<img src="example_images/snowflake-05.jpg" align="left" width="14%" style="padding-right: 5px">
-<img src="example_images/snowflake-06.jpg" align="left" width="14%" style="padding-right: 5px">
-<img src="example_images/snowflake-07.jpg" align="left" width="14%" style="padding-right: 5px">
+<img src="example_images/snowflake-01.jpg" align="left" width="13.5%">
+<img src="example_images/snowflake-03.jpg" align="left" width="13.5%">
+<img src="example_images/snowflake-04.jpg" align="left" width="13.5%">
+<img src="example_images/snowflake-05.jpg" align="left" width="13.5%">
+<img src="example_images/snowflake-06.jpg" align="left" width="13.5%">
+<img src="example_images/snowflake-07.jpg" align="left" width="13.5%">
